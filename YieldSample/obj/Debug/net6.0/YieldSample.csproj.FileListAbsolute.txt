@@ -1,0 +1,15 @@
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\bin\Debug\net6.0\YieldSample.exe
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\bin\Debug\net6.0\YieldSample.deps.json
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\bin\Debug\net6.0\YieldSample.runtimeconfig.json
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\bin\Debug\net6.0\YieldSample.dll
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\bin\Debug\net6.0\YieldSample.pdb
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.csproj.AssemblyReference.cache
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.AssemblyInfoInputs.cache
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.AssemblyInfo.cs
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.csproj.CoreCompileInputs.cache
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.dll
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\refint\YieldSample.dll
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.pdb
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\YieldSample.genruntimeconfig.cache
+C:\Users\Ershad Raoufi\Desktop\oout\YieldSample\YieldSample\obj\Debug\net6.0\ref\YieldSample.dll
